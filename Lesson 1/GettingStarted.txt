@@ -1,0 +1,44 @@
+What is programming?
+A: Its when we give a computer instructions on what to do. Programming languages
+help us write those instructions in a way thats easy for humans to read but can
+then translate them into a format the computer can understand ( Ones & Zeros ).
+
+Tools of the trade.
+-> Text editor or IDE
+-> Debug tools
+-> Version control
+-> Google
+-> Stack Overflow
+
+Extras:
+-> Slack
+-> Codebeat
+
+Higher Level Language v. Lower Level language
+
+There are many different languages such as C, C++, Java, PHP, Ruby and Python to
+name a few. Different languages are good for accomplishing different tasks. All
+higher level languages have the same fundamental concepts:
+
+They have variables.
+
+They have control structures.
+ -> Conditionals such as if, else, and switch.
+ -> Loops: While, For, Foreach, Do.
+
+They have data structures.
+  -> Arrays, Lists, Hash Tables.
+
+They all have their own syntax.
+ -> Their own way of writing code essentially.
+
+ Intro to Java.
+
+ Java was derived from C and C++. Created by James Gosling at Sun Microsystems (Now Oracle
+ Technologies).
+
+ What makes Java special?? Its portability.
+ The Java Virtual Machine allows you to compile once and run everywhere. That means
+ you can compile java on one machine and run it on any other machine regardless of its
+ hardware or operating system. (Example of use) Android OS runs on
+ millions of phones who's hardware varies amongst different manufacturers.
